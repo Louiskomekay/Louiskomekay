@@ -41,13 +41,9 @@
 
 | Project                                                                                    | Description                                                                                                     |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| **[Umami ECS Deployment](https://github.com/tahmidachoudhury/ecs-umami-analytics)**        | Production-style AWS ECS Fargate deployment using Terraform, ECR, ALB, ACM, Route53, and RDS                    |
+| **[Nest Ecommerce EC2 Deployment]([https://github.com/tahmidachoudhury/ecs-umami-analytics](https://github.com/Louiskomekay/Nest-Ecommerce-EC2-Deployment))**        | LAMP stack application deployed using Terraform, EC2, ALB, ACM, Route53, RDS, AWS Secret, S3 and more.                    |
 | **[GlobeBounds](https://github.com/tahmidachoudhury/globebounds)**                         | Geospatial visualisation platform deployed to AWS S3 + CloudFront via GitHub Actions CI/CD                      |
 | **[Exam Builder](https://github.com/tahmidachoudhury/exambuilder)**                        | GCSE Maths Exam Builder with LaTeX PDF generation, observability stack, and automated deployment workflows      |
-| **[LumenWalk](https://github.com/tahmidachoudhury/lumenwalk)**                             | Dockerised full-stack application deployed to AWS EC2 with NGINX reverse proxy, HTTPS, CI/CD, and observability |
-| **[TiiQu Knowledge Graph](https://github.com/tahmidachoudhury/knowledge-graph-prototype)** | Scalable graph visualisation system for 100k+ nodes using D3.js and Deck.GL                                     |
-| **[Salah Seeker](https://github.com/tahmidachoudhury/salah-seeker)**                       | Expo + Mapbox mobile app for discovering nearby prayer spaces with Qibla compass and prayer times               |
-
 </div>
 
 <details>
